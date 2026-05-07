@@ -1,0 +1,24 @@
+{
+  "name": "textalivestarterproject",
+  "version": "1.0.0",
+  "description": "My first attempt to use textalive API for a contest.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BLU36012/TextAliveStarterProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BLU36012/TextAliveStarterProject/issues"
+  },
+  "homepage": "https://github.com/BLU36012/TextAliveStarterProject#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
