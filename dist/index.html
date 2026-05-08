@@ -1,0 +1,95 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TextAlive CDN Project</title>
+  
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script src="https://unpkg.com/textalive-app-api/dist/index.js"></script>
+
+  <style>body {
+  text-align: center;
+  background-color: #f4f4f9;
+  padding-top: 100px;
+  font-family: sans-serif;
+}
+
+button {
+  cursor: pointer;
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+#text {
+  min-height: 60px;
+  margin-top: 30px;
+  font-size: 48px;
+  font-weight: bold;
+  display: block;
+}
+</style>
+</head>
+<body>
+
+  <div>
+    <button id="play" disabled="">Play</button>
+    <button id="stop" disabled="">Stop</button>
+  </div>
+
+  <span id="text">Loading...</span>
+
+  <div id="media"></div>
+
+  <script>// Pull Player from the globally loaded TextAliveApp
+const { Player } = TextAliveApp;
+// Initialize the Player
+const player = new Player({
+    app: {
+        token: "YOUR_APP_TOKEN"
+    },
+    mediaElement: document.querySelector("#media")
+});
+// Grab UI elements
+const textSpan = document.querySelector("#text");
+const playBtn = document.querySelector("#play");
+const stopBtn = document.querySelector("#stop");
+// Set up Player listeners
+player.addListener({
+    onAppReady: (app)=>{
+        if (!app.managed) // Load default Piapro song
+        player.createFromSongUrl("https://piapro.jp/t/RoPB/20220122172830");
+    },
+    onVideoReady: ()=>{
+        textSpan.textContent = "Ready! Press Play.";
+        playBtn.disabled = false;
+        stopBtn.disabled = false;
+    },
+    onTimeUpdate: (position)=>{
+        let currentVideo = player.video;
+        if (currentVideo) {
+            // Find the word currently being sung
+            let currentWord = currentVideo.findWord(position);
+            textSpan.textContent = currentWord ? currentWord.text : " ";
+        }
+    }
+});
+// 4. Wire up the buttons
+playBtn.addEventListener("click", ()=>{
+    if (player.isPlaying) {
+        player.requestPause();
+        playBtn.textContent = "Play";
+    } else {
+        player.requestPlay();
+        playBtn.textContent = "Pause";
+    }
+});
+stopBtn.addEventListener("click", ()=>{
+    player.requestStop();
+    playBtn.textContent = "Play";
+    textSpan.textContent = "Stopped.";
+});
+
+</script>
+
+
+<script src="/TextAliveStarterProject.3464ddca.js"></script></body></html>

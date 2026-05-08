@@ -2,9 +2,11 @@
   "name": "textalivestarterproject",
   "version": "1.0.0",
   "description": "My first attempt to use textalive API for a contest.",
-  "main": "index.html",
+  "source": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -20,5 +22,8 @@
   "homepage": "https://github.com/BLU36012/TextAliveStarterProject#readme",
   "devDependencies": {
     "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "textalive-app-api": "^0.4.0"
   }
 }
