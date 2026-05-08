@@ -2,15 +2,7 @@ import { Player } from "textalive-app-api";
 
 //Initialize the player
 const player = new Player({ app: { token: "axMa03SlS6U3CHwQ", mediaElement: document.querySelector("#media") } });
-player.addListener({
-  onVideoReady: (v) => {
-    let w = player.video.firstWord;
-    while (w) {
-      w.animate = animateWord;
-      w = w.next;
-    }
-  },
-});
+
 //Initialize UI Elements
 const textContainer = document.querySelector("#text-container");
 const playBtn = document.querySelector("#play");
@@ -23,23 +15,27 @@ const animateWord = function (now, unit) {
 };
 
 player.addListener({
+    // Fired when the app is ready. You can load a song here.
   onAppReady: (app) => {
+    console.log("Status: App Ready");
     if (!app.songUrl) {
-      player.createFromSongUrl("https://piapro.jp/t/RoPB");
-    }
-    if (!app.managed) {
-      showControls();
-      player.createFromSongUrl("https://piapro.jp/t/RoPB");
+        console.log("Video Ready to Play");
+        player.createFromSongUrl("https://piapro.jp/t/RoPB/20220122172830");
     }
   },
-
   // Fired when the video/audio is ready to be played
-  onVideoReady: () => {
+  onVideoReady: (video) => {
+    console.log("Status: Video Ready");
     textContainer.textContent = "Ready! Press Play.";
     playBtn.disabled = false;
     stopBtn.disabled = false;
+    let w = player.video.firstWord;
+    while (w) {
+      w.animate = animateWord;
+      w = w.next;
+    }
   },
-  onTimeUpdate:(beat) => {
+  onBeatUpdate:(beat) => {
     // This example slightly rotates the gradient on every beat
     document.body.style.filter = `hue-rotate(${beat.index * 10}deg)`;
   },

@@ -1,0 +1,45 @@
+body {
+  color: #872bea;
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab) 0 0 / 400% 400%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: sans-serif;
+  animation: 15s infinite gradientBG;
+  display: flex;
+}
+
+@keyframes fluidGradient {
+  0% {
+    background-position: 0%;
+  }
+
+  50% {
+    background-position: 100%;
+  }
+
+  100% {
+    background-position: 0%;
+  }
+}
+
+.controls {
+  margin-bottom: 20px;
+}
+
+button {
+  cursor: pointer;
+  margin: 0 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.lyric-box {
+  text-align: center;
+  min-height: 60px;
+  font-size: 48px;
+  font-weight: bold;
+}
+/*# sourceMappingURL=TextAliveStarterProject.2cdaf7bc.css.map */

@@ -1,8 +1,8 @@
-4041
+4069
 96C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\core\test\fixtures\duplicate-targets134226679964920737 1
 74C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\logger\LICENSE134226679950806718 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\PS.js134226679983163386 0
-51C:\Users\rw578\TextAliveStarterProject\package.json134226719996206133 0
+51C:\Users\rw578\TextAliveStarterProject\package.json134226984462651823 0
 69C:\Users\rw578\TextAliveStarterProject\node_modules\type-fest\license134226679950577397 0
 93C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\flexbox-gap.js134226679970674119 0
 76C:\Users\rw578\TextAliveStarterProject\node_modules\semver\functions\sort.js134226679958373879 0
@@ -21,8 +21,8 @@
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\HK.js134226679972852753 0
 102C:\Users\rw578\TextAliveStarterProject\node_modules\axios\lib\platform\node\classes\URLSearchParams.js134226717023598782 0
 60C:\Users\rw578\TextAliveStarterProject\node_modules\get-port134226679952603637 1
-43C:\Users\rw578\TextAliveStarterProject\dist134226720002986395 1
-49C:\Users\rw578\TextAliveStarterProject\index.html134226716538416037 0
+43C:\Users\rw578\TextAliveStarterProject\dist134226999311146544 1
+49C:\Users\rw578\TextAliveStarterProject\index.html134226991337559348 0
 86C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\core\src\public\Symbols.js134226679963316870 0
 86C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr-extract\node_modules\.bin134226679991159159 1
 86C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\core\lib\InternalConfig.js134226679960903458 0
@@ -34,18 +34,21 @@
 96C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\input-datetime.js134226679974406078 0
 80C:\Users\rw578\TextAliveStarterProject\node_modules\semver\functions\rcompare.js134226679957912906 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\MK.js134226679979541007 0
+123C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.cmd134226679991159159 0
 77C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\rust\lib\utils.js134226679953815185 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\BS.js134226679961199539 0
 93C:\Users\rw578\TextAliveStarterProject\node_modules\node-gyp-build-optional-packages\index.js134226679952175926 0
-123C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.cmd134226679991159159 0
 81C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\transformer-image\src134226679953983236 1
 107C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\lmdb.h134226679962605014 0
 70C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\src\lmdb-js.h134226679962541512 0
-56C:\Users\rw578\TextAliveStarterProject\package-lock.json134226717026266896 0
+56C:\Users\rw578\TextAliveStarterProject\package-lock.json134226984463109822 0
 107C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\_\_apply_decorated_descriptor\package.json134226679951497382 0
 94C:\Users\rw578\TextAliveStarterProject\node_modules\textalive-app-api\dist\tsdoc-metadata.json134226717022294624 0
+83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\MZ.js134226679980363158 0
+74C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\types-internal134226679955914187 1
+59C:\Users\rw578\TextAliveStarterProject\node_modules\ieee754134226984462540966 1
 92C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\watcher\src\windows\win_utils.cc134226679956494742 0
-51C:\Users\rw578\TextAliveStarterProject\node_modules134226717020260772 1
+51C:\Users\rw578\TextAliveStarterProject\node_modules134226984461241330 1
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\RS.js134226679984139901 0
 94C:\Users\rw578\TextAliveStarterProject\node_modules\webfontloader\src\core\fontmoduleloader.js134226717022284641 0
 70C:\Users\rw578\TextAliveStarterProject\node_modules\dotenv\SECURITY.md134226679954584503 0
@@ -73,9 +76,7 @@
 88C:\Users\rw578\TextAliveStarterProject\node_modules\webfontloader\src\core\initialize.js134226717022459286 0
 74C:\Users\rw578\TextAliveStarterProject\node_modules\color-convert\index.js134226679952297804 0
 85C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\cjs\_export_star.cjs134226679963463017 0
-49C:\Users\rw578\TextAliveStarterProject\src\app.js134226978764636065 0
-62C:\Users\rw578\TextAliveStarterProject\node_modules\mime-types134226717021769644 1
-82C:\Users\rw578\TextAliveStarterProject\node_modules\type-fest\ts41\kebab-case.d.ts134226679956443837 0
+49C:\Users\rw578\TextAliveStarterProject\src\app.js134226998937275968 0
 58C:\Users\rw578\TextAliveStarterProject\node_modules\base-x134226679952267610 1
 69C:\Users\rw578\TextAliveStarterProject\node_modules\form-data\License134226717021415401 0
 69C:\Users\rw578\TextAliveStarterProject\node_modules\parcel\src\cli.js134226679953381271 0
@@ -83,16 +84,9 @@
 113C:\Users\rw578\TextAliveStarterProject\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.abi115.node134226679952836608 0
 94C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\_\_apply_decorated_descriptor134226679951331239 1
 74C:\Users\rw578\TextAliveStarterProject\node_modules\lightningcss\README.md134226679955316161 0
-52C:\Users\rw578\TextAliveStarterProject\src\style.css134226976890285863 0
+52C:\Users\rw578\TextAliveStarterProject\src\style.css134226999310819379 0
 93C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\textencoder.js134226679986756188 0
 109C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c134226679961434955 0
-111C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr-extract\node_modules\detect-libc\lib\filesystem.js134226679952937575 0
-79C:\Users\rw578\TextAliveStarterProject\node_modules\axios\lib\platform\index.js134226717023101365 0
-76C:\Users\rw578\TextAliveStarterProject\node_modules\term-size\vendor\windows134226679953556980 1
-83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\GA.js134226679971286397 0
-90C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-grid.js134226679964995732 0
-72C:\Users\rw578\TextAliveStarterProject\node_modules\.bin\detect-libc.ps1134226679991034317 0
-67C:\Users\rw578\TextAliveStarterProject\node_modules\math-intrinsics134226717022675406 1
 77C:\Users\rw578\TextAliveStarterProject\node_modules\follow-redirects\https.js134226717021672468 0
 90C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\auxclick.js134226679959337902 0
 100C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\node_modules\node-addon-api\tools\README.md134226679956298326 0
@@ -101,7 +95,7 @@
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\MW.js134226679980283977 0
 56C:\Users\rw578\TextAliveStarterProject\node_modules\.bin134226679991102652 1
 89C:\Users\rw578\TextAliveStarterProject\node_modules\get-proto\Reflect.getPrototypeOf.d.ts134226717022254609 0
-70C:\Users\rw578\TextAliveStarterProject\node_modules\.package-lock.json134226717027262395 0
+70C:\Users\rw578\TextAliveStarterProject\node_modules\.package-lock.json134226984463363820 0
 94C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\do-not-track.js134226679968609501 0
 81C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\cjs\_dispose.cjs134226679963441921 0
 61C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\core134226679954954349 1
@@ -161,6 +155,10 @@
 60C:\Users\rw578\TextAliveStarterProject\node_modules\asynckit134226717022045199 1
 95C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\link-icon-svg.js134226679977499600 0
 72C:\Users\rw578\TextAliveStarterProject\node_modules\globals\globals.json134226679952115118 0
+62C:\Users\rw578\TextAliveStarterProject\node_modules\songle-api134226717022185873 1
+68C:\Users\rw578\TextAliveStarterProject\node_modules\buffer\README.md134226984462460848 0
+98C:\Users\rw578\TextAliveStarterProject\node_modules\.bin\node-gyp-build-optional-packages-test.cmd134226679991052166 0
+61C:\Users\rw578\TextAliveStarterProject\node_modules\base64-js134226984462601824 1
 108C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\core\test\fixtures\invalid-distpath\package.json134226679964965742 0
 97C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-transitions.js134226679967276563 0
 77C:\Users\rw578\TextAliveStarterProject\node_modules\es-object-atoms\.eslintrc134226717021385408 0
@@ -183,6 +181,13 @@
 97C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-paged-media.js134226679966267982 0
 108C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\runtime-js\lib\helpers\browser\preload-loader.js134226679958308534 0
 64C:\Users\rw578\TextAliveStarterProject\node_modules\browserslist134226679954415850 1
+89C:\Users\rw578\TextAliveStarterProject\node_modules\math-intrinsics\constants\maxValue.js134226717022244533 0
+84C:\Users\rw578\TextAliveStarterProject\node_modules\semver\internal\parse-options.js134226679957506034 0
+105C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-repeating-gradients.js134226679966569923 0
+76C:\Users\rw578\TextAliveStarterProject\node_modules\weak-lru-cache\README.md134226679953907712 0
+100C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-grid-animation.js134226679964930616 0
+71C:\Users\rw578\TextAliveStarterProject\node_modules\json5\dist\index.js134226679951919371 0
+58C:\Users\rw578\TextAliveStarterProject\node_modules\buffer134226984462490963 1
 98C:\Users\rw578\TextAliveStarterProject\node_modules\axios\lib\platform\browser\classes\FormData.js134226717022930895 0
 65C:\Users\rw578\TextAliveStarterProject\node_modules\color-convert134226679953344962 1
 105C:\Users\rw578\TextAliveStarterProject\node_modules\react-refresh\cjs\react-refresh-runtime.production.js134226679953740102 0
@@ -210,6 +215,7 @@
 74C:\Users\rw578\TextAliveStarterProject\node_modules\detect-libc\.npmignore134226679951170543 0
 92C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\decorators.js134226679968245503 0
 109C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\runtime-js\lib\helpers\browser\prefetch-loader.js134226679958085195 0
+74C:\Users\rw578\TextAliveStarterProject\node_modules\base64-js\package.json134226984462591832 0
 57C:\Users\rw578\TextAliveStarterProject\node_modules\clone134226679953022950 1
 60C:\Users\rw578\TextAliveStarterProject\node_modules\has-flag134226679952488509 1
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\CK.js134226679962005559 0
@@ -237,11 +243,11 @@
 84C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\esm\_ts_metadata.js134226679967344172 0
 70C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr\pack.d.ts134226679958904777 0
 61C:\Users\rw578\TextAliveStarterProject\node_modules\commander134226679955381351 1
+73C:\Users\rw578\TextAliveStarterProject\node_modules\base-x\src\index.d.ts134226679952982923 0
+94C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr-extract\bin\download-prebuilds.js134226679952392721 0
 103C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\types-internal\lib\DependencySpecifier.d.ts134226679956185490 0
 80C:\Users\rw578\TextAliveStarterProject\node_modules\ordered-binary\tests\test.js134226679953254809 0
 75C:\Users\rw578\TextAliveStarterProject\node_modules\color-name\package.json134226679950577397 0
-73C:\Users\rw578\TextAliveStarterProject\node_modules\base-x\src\index.d.ts134226679952982923 0
-94C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr-extract\bin\download-prebuilds.js134226679952392721 0
 64C:\Users\rw578\TextAliveStarterProject\node_modules\lightningcss134226679955276158 1
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\EE.js134226679969252998 0
 72C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\core\Visitor.js134226679952235941 0
@@ -328,6 +334,15 @@
 56C:\Users\rw578\TextAliveStarterProject\node_modules\gopd134226717022175900 1
 85C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\plugin\src\PluginAPI.d.ts134226679953022950 0
 79C:\Users\rw578\TextAliveStarterProject\node_modules\lightningcss-win32-x64-msvc134226679952094914 1
+111C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr-extract\node_modules\detect-libc\lib\filesystem.js134226679952937575 0
+79C:\Users\rw578\TextAliveStarterProject\node_modules\axios\lib\platform\index.js134226717023101365 0
+76C:\Users\rw578\TextAliveStarterProject\node_modules\term-size\vendor\windows134226679953556980 1
+83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\GA.js134226679971286397 0
+90C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-grid.js134226679964995732 0
+72C:\Users\rw578\TextAliveStarterProject\node_modules\.bin\detect-libc.ps1134226679991034317 0
+67C:\Users\rw578\TextAliveStarterProject\node_modules\math-intrinsics134226717022675406 1
+62C:\Users\rw578\TextAliveStarterProject\node_modules\mime-types134226717021769644 1
+82C:\Users\rw578\TextAliveStarterProject\node_modules\type-fest\ts41\kebab-case.d.ts134226679956443837 0
 103C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\credential-management.js134226679962838379 0
 60C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr134226679958944738 1
 77C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\src\v8-functions.cpp134226679962191594 0
@@ -377,7 +392,6 @@
 71C:\Users\rw578\TextAliveStarterProject\node_modules\regenerator-runtime134226679952658731 1
 74C:\Users\rw578\TextAliveStarterProject\node_modules\supports-color\license134226679950577397 0
 63C:\Users\rw578\TextAliveStarterProject\node_modules\safe-buffer134226679952643782 1
-62C:\Users\rw578\TextAliveStarterProject\node_modules\songle-api134226717022185873 1
 83C:\Users\rw578\TextAliveStarterProject\node_modules\has-symbols\.github\FUNDING.yml134226717022376953 0
 100C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-initial-letter.js134226679965264157 0
 84C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\_\_get\package.json134226679959453397 0
@@ -387,6 +401,10 @@
 61C:\Users\rw578\TextAliveStarterProject\node_modules\term-size134226679954594481 1
 70C:\Users\rw578\TextAliveStarterProject\node_modules\picocolors\LICENSE134226679950567336 0
 86C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\cors.js134226679962725372 0
+94C:\Users\rw578\TextAliveStarterProject\node_modules\.bin\node-gyp-build-optional-packages-test134226679991052166 0
+98C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\core\src\requests\ValidationRequest.js134226679964053811 0
+86C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\graph\lib\AdjacencyList.js134226679952473469 0
+67C:\Users\rw578\TextAliveStarterProject\node_modules\buffer\index.js134226984461995705 0
 69C:\Users\rw578\TextAliveStarterProject\node_modules\textalive-app-api134226717022376953 1
 84C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\transformer-node\LICENSE134226679950731650 0
 95C:\Users\rw578\TextAliveStarterProject\node_modules\math-intrinsics\constants\maxSafeInteger.js134226717022199441 0
@@ -548,6 +566,7 @@
 87C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\alt-ww.js134226679957320761 0
 87C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\fetch.js134226679969964646 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\FR.js134226679971235745 0
+69C:\Users\rw578\TextAliveStarterProject\node_modules\buffer\AUTHORS.md134226984462045695 0
 92C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\esm\_array_without_holes.js134226679965242913 0
 77C:\Users\rw578\TextAliveStarterProject\node_modules\parcel\src\.eslintrc.json134226679953765209 0
 78C:\Users\rw578\TextAliveStarterProject\node_modules\es-set-tostringtag\LICENSE134226717021577121 0
@@ -565,10 +584,6 @@
 75C:\Users\rw578\TextAliveStarterProject\node_modules\weak-lru-cache\index.js134226679951939402 0
 84C:\Users\rw578\TextAliveStarterProject\node_modules\.bin\download-msgpackr-prebuilds134226679991052166 0
 79C:\Users\rw578\TextAliveStarterProject\node_modules\weak-lru-cache\package.json134226679953589500 0
-89C:\Users\rw578\TextAliveStarterProject\node_modules\math-intrinsics\constants\maxValue.js134226717022244533 0
-84C:\Users\rw578\TextAliveStarterProject\node_modules\semver\internal\parse-options.js134226679957506034 0
-105C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-repeating-gradients.js134226679966569923 0
-76C:\Users\rw578\TextAliveStarterProject\node_modules\weak-lru-cache\README.md134226679953907712 0
 72C:\Users\rw578\TextAliveStarterProject\node_modules\picocolors\README.md134226679952623755 0
 77C:\Users\rw578\TextAliveStarterProject\node_modules\delayed-stream\.npmignore134226717021501911 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\AL.js134226679956338412 0
@@ -583,8 +598,6 @@
 94C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\_\_class_apply_descriptor_set134226679956772043 1
 83C:\Users\rw578\TextAliveStarterProject\node_modules\textalive-app-api\dist\index.js134226717022219444 0
 60C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\bin134226679963452055 1
-92C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\esm\_to_consumable_array.js134226679967200644 0
-69C:\Users\rw578\TextAliveStarterProject\node_modules\base-x\LICENSE.md134226679951919371 0
 85C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\src\_export_star.mjs134226679969309975 0
 85C:\Users\rw578\TextAliveStarterProject\node_modules\weak-lru-cache\tests\benchmark.js134226679951477390 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\JE.js134226679975867057 0
@@ -693,6 +706,7 @@
 79C:\Users\rw578\TextAliveStarterProject\node_modules\regenerator-runtime\LICENSE134226679950657534 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\LA.js134226679977085329 0
 105C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\background-position-x-y.js134226679959894397 0
+64C:\Users\rw578\TextAliveStarterProject\dist\main.926e72c2.js.map134226999257531051 0
 119C:\Users\rw578\TextAliveStarterProject\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\README.md134226679953907712 0
 89C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\gamepad.js134226679971306558 0
 69C:\Users\rw578\TextAliveStarterProject\node_modules\axios\lib\helpers134226717024603060 1
@@ -736,11 +750,11 @@
 90C:\Users\rw578\TextAliveStarterProject\node_modules\utility-types\dist\mapped-types.js.map134226679955024443 0
 79C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\_\_export_star134226679959353211 1
 89C:\Users\rw578\TextAliveStarterProject\node_modules\utility-types\dist\utility-types.d.ts134226679956504738 0
+89C:\Users\rw578\TextAliveStarterProject\node_modules\baseline-browser-mapping\dist\cli.cjs134226679950841853 0
 72C:\Users\rw578\TextAliveStarterProject\node_modules\function-bind\.nycrc134226717021597145 0
 87C:\Users\rw578\TextAliveStarterProject\node_modules\utility-types\dist\utility-types.js134226679953674723 0
 81C:\Users\rw578\TextAliveStarterProject\node_modules\semver\functions\satisfies.js134226679958115042 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\CI.js134226679961954673 0
-89C:\Users\rw578\TextAliveStarterProject\node_modules\baseline-browser-mapping\dist\cli.cjs134226679950841853 0
 99C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\wasm-relaxed-simd.js134226679989166970 0
 91C:\Users\rw578\TextAliveStarterProject\node_modules\utility-types\dist\utility-types.js.map134226679955224857 0
 95C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\pad-start-end.js134226679981774979 0
@@ -756,8 +770,8 @@
 88C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\transformer-babel\src\jsx.js134226679955874210 0
 79C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\watcher\src\Glob.hh134226679957599971 0
 82C:\Users\rw578\TextAliveStarterProject\node_modules\update-browserslist-db\LICENSE134226679950587392 0
-79C:\Users\rw578\TextAliveStarterProject\node_modules\ordered-binary\package.json134226679954654355 0
 91C:\Users\rw578\TextAliveStarterProject\node_modules\baseline-browser-mapping\dist\index.cjs134226679952412876 0
+79C:\Users\rw578\TextAliveStarterProject\node_modules\ordered-binary\package.json134226679954654355 0
 95C:\Users\rw578\TextAliveStarterProject\node_modules\math-intrinsics\constants\maxArrayLength.js134226717022155859 0
 90C:\Users\rw578\TextAliveStarterProject\node_modules\type-fest\source\iterable-element.d.ts134226679956298326 0
 85C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\aac.js134226679951602884 0
@@ -1078,7 +1092,6 @@
 101C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest3.c134226679961264705 0
 101C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr-extract\node_modules\detect-libc\LICENSE134226679950841853 0
 78C:\Users\rw578\TextAliveStarterProject\node_modules\react-refresh\package.json134226679954214399 0
-123C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.ps1134226679991159159 0
 76C:\Users\rw578\TextAliveStarterProject\node_modules\react-refresh\runtime.js134226679953952951 0
 120C:\Users\rw578\TextAliveStarterProject\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\index.d.ts134226679954153682 0
 68C:\Users\rw578\TextAliveStarterProject\node_modules\axios\index.d.ts134226717024668025 0
@@ -1110,6 +1123,7 @@
 85C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\workers\lib\childState.js134226679954375819 0
 70C:\Users\rw578\TextAliveStarterProject\node_modules\gopd\tsconfig.json134226717021924803 0
 85C:\Users\rw578\TextAliveStarterProject\node_modules\postcss-value-parser\lib\index.js134226679951321087 0
+72C:\Users\rw578\TextAliveStarterProject\node_modules\base64-js\index.d.ts134226984462611806 0
 71C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\src\cursor.cpp134226679961934640 0
 85C:\Users\rw578\TextAliveStarterProject\node_modules\postcss-value-parser\lib\parse.js134226679952094914 0
 99C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\_\_class_static_private_method_get134226679958576486 1
@@ -1309,6 +1323,8 @@
 126C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js134226679953093829 0
 92C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\web-serial.js134226679989489101 0
 124C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\README.md134226679953674723 0
+87C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\runtime-js\lib\helpers\node134226679958586490 1
+70C:\Users\rw578\TextAliveStarterProject\node_modules\ieee754\index.d.ts134226984462550941 0
 86C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\xhr2.js134226679990330278 0
 103C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr-extract\node_modules\detect-libc\README.md134226679953927734 0
 80C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\workers\src\index.js134226679956862651 0
@@ -1320,8 +1336,8 @@
 97C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\cjs\_class_private_field_set.cjs134226679962903723 0
 92C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\hashchange.js134226679972552040 0
 90C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\src\_set_prototype_of.mjs134226679969909390 0
-119C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages134226679991171613 0
 90C:\Users\rw578\TextAliveStarterProject\node_modules\baseline-browser-mapping\dist\index.js134226679953619526 0
+119C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages134226679991171613 0
 132C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.ps1134226679991052166 0
 72C:\Users\rw578\TextAliveStarterProject\node_modules\math-intrinsics\test134226717021759539 1
 72C:\Users\rw578\TextAliveStarterProject\node_modules\.bin\detect-libc.cmd134226679991034317 0
@@ -1332,10 +1348,11 @@
 71C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\types\index.js134226679951717959 0
 65C:\Users\rw578\TextAliveStarterProject\node_modules\gopd\index.js134226717021652240 0
 124C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test134226679991181741 0
+123C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.ps1134226679991159159 0
 103C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\watcher\node_modules\detect-libc\index.d.ts134226679954133683 0
 73C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr\benchmark.md134226679958606631 0
-65C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr\dist134226679958454112 1
 74C:\Users\rw578\TextAliveStarterProject\node_modules\browserslist\README.md134226679954043105 0
+65C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr\dist134226679958454112 1
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\MY.js134226679980337865 0
 89C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\imports.js134226679973923077 0
 81C:\Users\rw578\TextAliveStarterProject\node_modules\follow-redirects\package.json134226717021864811 0
@@ -1388,6 +1405,7 @@
 84C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr\dist\unpack-no-eval.cjs134226679953825185 0
 71C:\Users\rw578\TextAliveStarterProject\node_modules\json5\lib\util.d.ts134226679956706729 0
 82C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\types-internal\LICENSE134226679950647382 0
+67C:\Users\rw578\TextAliveStarterProject\node_modules\ieee754\LICENSE134226984462425782 0
 88C:\Users\rw578\TextAliveStarterProject\node_modules\msgpackr\dist\unpack-no-eval.cjs.map134226679958545504 0
 71C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\dist\index.cjs134226679961839476 0
 74C:\Users\rw578\TextAliveStarterProject\node_modules\has-symbols\index.d.ts134226717022324609 0
@@ -1534,6 +1552,7 @@
 95C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\node_modules\node-addon-api\LICENSE.md134226679956054726 0
 106C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\node_modules\node-addon-api\napi-inl.deprecated.h134226679952973092 0
 95C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\node_modules\node-addon-api\napi-inl.h134226679954204399 0
+77C:\Users\rw578\TextAliveStarterProject\node_modules\base64-js\base64js.min.js134226984462540966 0
 97C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp134226679951096644 0
 94C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\node_modules\node-addon-api\nothing.c134226679950516772 0
 75C:\Users\rw578\TextAliveStarterProject\node_modules\dotenv-expand\README.md134226679953229488 0
@@ -1555,9 +1574,9 @@
 95C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\types-internal\lib\SemverRange.d.ts134226679957073541 0
 70C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\dict\dict.txt134226679964164610 0
 99C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\core\src\requests\ParcelBuildRequest.js134226679961764136 0
-69C:\Users\rw578\TextAliveStarterProject\node_modules\es-errors\type.js134226717022030115 0
 68C:\Users\rw578\TextAliveStarterProject\node_modules\get-port\license134226679952277659 0
 74C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\dependencies\lmdb134226679953143822 1
+69C:\Users\rw578\TextAliveStarterProject\node_modules\es-errors\type.js134226717022030115 0
 72C:\Users\rw578\TextAliveStarterProject\node_modules\json5\lib\index.d.ts134226679956205507 0
 82C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\dependencies\lmdb-data-v1134226679950681641 1
 94C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\src\_ts_dispose_resources.mjs134226679970506213 0
@@ -1643,6 +1662,8 @@
 100C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\orientation-sensor.js134226679981697278 0
 72C:\Users\rw578\TextAliveStarterProject\node_modules\get-proto\index.d.ts134226717022185873 0
 84C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\dependencies\lmdb\libraries134226679953229488 1
+87C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\types-internal\package.json134226679955682557 0
+72C:\Users\rw578\TextAliveStarterProject\node_modules\ieee754\package.json134226984462510952 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\SL.js134226679985079782 0
 92C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb134226679964421421 1
 102C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.c134226679958555343 0
@@ -1662,9 +1683,9 @@
 103C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1134226679957640176 0
 92C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-sticky.js134226679966886540 0
 93C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\will-change.js134226679990084792 0
-103C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1134226679958185718 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\codeframe\test\fixtures134226679951341100 1
 75C:\Users\rw578\TextAliveStarterProject\node_modules\es-errors\test\index.js134226717021789661 0
+103C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1134226679958185718 0
 103C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.c134226679959884409 0
 86C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\wasm.js134226679989322756 0
 106C:\Users\rw578\TextAliveStarterProject\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl-sparse.c134226679960652900 0
@@ -1745,8 +1766,6 @@
 86C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\workers\lib\core-worker.js134226679955506571 0
 73C:\Users\rw578\TextAliveStarterProject\node_modules\json5\lib\register.js134226679954133683 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\AF.js134226679955276158 0
-100C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-grid-animation.js134226679964930616 0
-71C:\Users\rw578\TextAliveStarterProject\node_modules\json5\dist\index.js134226679951919371 0
 95C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\src\_await_async_generator.mjs134226679968299795 0
 88C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\_\_class_name_tdz_error134226679957355639 1
 75C:\Users\rw578\TextAliveStarterProject\node_modules\json5\dist\index.min.js134226679953229488 0
@@ -1764,6 +1783,12 @@
 76C:\Users\rw578\TextAliveStarterProject\node_modules\form-data\lib\browser.js134226717021531968 0
 70C:\Users\rw578\TextAliveStarterProject\node_modules\is-extglob\LICENSE134226679951697970 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\AS.js134226679958404021 0
+74C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\compressor-raw134226679952352685 1
+105C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\_\_class_private_method_set\package.json134226679958225829 0
+67C:\Users\rw578\TextAliveStarterProject\node_modules\axios\README.md134226717024647967 0
+68C:\Users\rw578\TextAliveStarterProject\node_modules\ieee754\index.js134226984462445777 0
+77C:\Users\rw578\TextAliveStarterProject\node_modules\has-symbols\test\index.js134226717022020152 0
+69C:\Users\rw578\TextAliveStarterProject\node_modules\ieee754\README.md134226984462530949 0
 66C:\Users\rw578\TextAliveStarterProject\node_modules\hasown\.github134226717022095300 1
 71C:\Users\rw578\TextAliveStarterProject\node_modules\hasown\CHANGELOG.md134226717021844725 0
 77C:\Users\rw578\TextAliveStarterProject\node_modules\commander\lib\argument.js134226679951426192 0
@@ -1796,11 +1821,11 @@
 93C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\packager-wasm\lib\WasmPackager.js134226679953219454 0
 73C:\Users\rw578\TextAliveStarterProject\node_modules\has-symbols\.eslintrc134226717021395400 0
 71C:\Users\rw578\TextAliveStarterProject\node_modules\has-symbols\.github134226717022366967 1
-103C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\subresource-integrity.js134226679985782974 0
-71C:\Users\rw578\TextAliveStarterProject\node_modules\es-errors\type.d.ts134226717022417007 0
-70C:\Users\rw578\TextAliveStarterProject\node_modules\has-symbols\.nycrc134226717021491914 0
 78C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\compressor-raw\src134226679951919371 1
 75C:\Users\rw578\TextAliveStarterProject\node_modules\function-bind\README.md134226717022155859 0
+103C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\subresource-integrity.js134226679985782974 0
+70C:\Users\rw578\TextAliveStarterProject\node_modules\has-symbols\.nycrc134226717021491914 0
+71C:\Users\rw578\TextAliveStarterProject\node_modules\es-errors\type.d.ts134226717022417007 0
 80C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\workers\lib\types.js134226679958701559 0
 65C:\Users\rw578\TextAliveStarterProject\node_modules\escalade\sync134226679954716236 1
 92C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\core\test\fixtures\default-serve134226679964890768 1
@@ -1809,7 +1834,6 @@
 73C:\Users\rw578\TextAliveStarterProject\node_modules\has-symbols\README.md134226717022294624 0
 94C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\rel-noopener.js134226679983664087 0
 77C:\Users\rw578\TextAliveStarterProject\node_modules\has-symbols\tsconfig.json134226717022229465 0
-77C:\Users\rw578\TextAliveStarterProject\node_modules\has-symbols\test\index.js134226717022020152 0
 102C:\Users\rw578\TextAliveStarterProject\node_modules\has-symbols\test\shams\get-own-property-symbols.js134226717021884818 0
 95C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\ambient-light.js134226679957620137 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\FM.js134226679970767268 0
@@ -1928,9 +1952,6 @@
 70C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\utils\test134226679960316664 1
 80C:\Users\rw578\TextAliveStarterProject\node_modules\es-object-atoms\CHANGELOG.md134226717022105425 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\JM.js134226679975940058 0
-89C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\src\_super_prop_base.mjs134226679970026702 0
-84C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\_\_array_with_holes134226679953927734 1
-66C:\Users\rw578\TextAliveStarterProject\node_modules\es-errors\test134226717021769644 1
 109C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\cjs\_create_for_of_iterator_helper_loose.cjs134226679963286586 0
 103C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\contentsecuritypolicy.js134226679962605014 0
 78C:\Users\rw578\TextAliveStarterProject\node_modules\es-object-atoms\index.d.ts134226717022185873 0
@@ -1948,6 +1969,7 @@
 88C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\diagnostic\lib\diagnostic.js134226679951477390 0
 69C:\Users\rw578\TextAliveStarterProject\node_modules\es-errors\.github134226717022459286 1
 99C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\wasm-multi-memory.js134226679988928035 0
+84C:\Users\rw578\TextAliveStarterProject\dist\TextAliveStarterProject.2cdaf7bc.css.map134226999311146544 0
 88C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\dnssec.js134226679968551277 0
 69C:\Users\rw578\TextAliveStarterProject\node_modules\es-errors\eval.js134226717021567128 0
 97C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\form-validation.js134226679971184452 0
@@ -1955,6 +1977,9 @@
 72C:\Users\rw578\TextAliveStarterProject\node_modules\es-errors\index.d.ts134226717022324609 0
 113C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\helpers.js134226679952352685 0
 71C:\Users\rw578\TextAliveStarterProject\node_modules\es-errors\syntax.js134226717021980157 0
+89C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\src\_super_prop_base.mjs134226679970026702 0
+84C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\_\_array_with_holes134226679953927734 1
+66C:\Users\rw578\TextAliveStarterProject\node_modules\es-errors\test134226717021769644 1
 87C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\_\_to_consumable_array134226679961154044 1
 75C:\Users\rw578\TextAliveStarterProject\node_modules\es-errors\tsconfig.json134226717022199441 0
 93C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\ol-reversed.js134226679981567339 0
@@ -2110,8 +2135,6 @@
 91C:\Users\rw578\TextAliveStarterProject\node_modules\call-bind-apply-helpers\reflectApply.js134226717022105425 0
 75C:\Users\rw578\TextAliveStarterProject\node_modules\chrome-trace-event\dist134226679952856610 1
 104C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\document-currentscript.js134226679968715106 0
-104C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\runtime-js\lib\helpers\worker\wasm-loader.js134226679958731599 0
-71C:\Users\rw578\TextAliveStarterProject\node_modules\base-x\package.json134226679951436189 0
 97C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\cjs\_interop_require_default.cjs134226679963720625 0
 82C:\Users\rw578\TextAliveStarterProject\node_modules\chrome-trace-event\LICENSE.txt134226679953284934 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\chrome-trace-event\package.json134226679951341100 0
@@ -2293,7 +2316,6 @@
 99C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-focus-visible.js134226679964674649 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\MT.js134226679980086678 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\MU.js134226679980116674 0
-83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\MZ.js134226679980363158 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\NA.js134226679980523209 0
 84C:\Users\rw578\TextAliveStarterProject\node_modules\.bin\download-lmdb-prebuilds.ps1134226679991052166 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\NC.js134226679980646094 0
@@ -2320,6 +2342,7 @@
 122C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\package.json134226679965131564 0
 105C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\error-overlay\src\components\NavigationBar.js134226679956827130 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\PE.js134226679982011774 0
+79C:\Users\rw578\TextAliveStarterProject\dist\TextAliveStarterProject.0f77c784.js134226999257621479 0
 86C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\sdch.js134226679984596609 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\PF.js134226679982102440 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\PG.js134226679982144431 0
@@ -2351,6 +2374,7 @@
 97C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\core\test\fixtures\library-scopehoist134226679965232916 1
 69C:\Users\rw578\TextAliveStarterProject\node_modules\asynckit\bench.js134226717021662352 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\SK.js134226679985044474 0
+71C:\Users\rw578\TextAliveStarterProject\node_modules\buffer\package.json134226984462025699 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\SN.js134226679985139813 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\regions\SR.js134226679985401559 0
 75C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\watcher\LICENSE134226679950647382 0
@@ -2445,7 +2469,6 @@
 100C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-cascade-layers.js134226679963483117 0
 102C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-case-insensitive.js134226679963542897 0
 100C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-color-function.js134226679963660695 0
-68C:\Users\rw578\TextAliveStarterProject\node_modules\base-x\README.md134226679952372746 0
 101C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-conic-gradients.js134226679963700658 0
 82C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\core\lib\Validation.js134226679963968326 0
 109C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-container-queries-style.js134226679963740627 0
@@ -2471,8 +2494,8 @@
 98C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-font-stretch.js134226679964845180 0
 86C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\namer-default\package.json134226679952593630 0
 105C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-hanging-punctuation.js134226679965025880 0
-89C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\outline.js134226679981722264 0
 89C:\Users\rw578\TextAliveStarterProject\node_modules\baseline-browser-mapping\package.json134226679953856359 0
+89C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\outline.js134226679981722264 0
 89C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-has.js134226679965051259 0
 95C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-image-set.js134226679965163010 0
 106C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-indeterminate-pseudo.js134226679965232916 0
@@ -2535,7 +2558,7 @@
 95C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-when-else.js134226679967398640 0
 96C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\object-observe.js134226679981352420 0
 100C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-widows-orphans.js134226679967432270 0
-54C:\Users\rw578\TextAliveStarterProject\dist\index.html134226720002935824 0
+54C:\Users\rw578\TextAliveStarterProject\dist\index.html134226999256873451 0
 102C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\transformer-babel\src\remapAstLocations.js134226679956205507 0
 99C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-width-stretch.js134226679967452282 0
 90C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\css-zoom.js134226679967506486 0
@@ -2551,6 +2574,7 @@
 96C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\esm\_class_private_field_set.js134226679965882678 0
 90C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\datalist.js134226679968060098 0
 105C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\date-tolocaledatestring.js134226679968154198 0
+60C:\Users\rw578\TextAliveStarterProject\dist\main.926e72c2.js134226999257415519 0
 98C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\devicepixelratio.js134226679968342560 0
 94C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\font-kerning.js134226679970915812 0
 88C:\Users\rw578\TextAliveStarterProject\node_modules\.bin\download-msgpackr-prebuilds.cmd134226679991047072 0
@@ -2637,6 +2661,7 @@
 95C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\link-icon-png.js134226679977353417 0
 103C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\link-rel-dns-prefetch.js134226679977668388 0
 100C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\loading-lazy-media.js134226679978340444 0
+69C:\Users\rw578\TextAliveStarterProject\node_modules\buffer\index.d.ts134226984462520929 0
 95C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\packager-wasm\src\wasm-sourcemap.js134226679952718757 0
 94C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\magnetometer.js134226679978592781 0
 97C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\matchesselector.js134226679978632713 0
@@ -2756,8 +2781,8 @@
 98C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\view-transitions.js134226679988508155 0
 96C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\viewport-units.js134226679988563369 0
 91C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\wake-lock.js134226679988709627 0
-89C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\wasm-gc.js134226679988874016 0
 86C:\Users\rw578\TextAliveStarterProject\node_modules\baseline-browser-mapping\README.md134226679954174564 0
+89C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\wasm-gc.js134226679988874016 0
 97C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\source-map\dist\wasm-bindings.js.flow134226679953887707 0
 81C:\Users\rw578\TextAliveStarterProject\node_modules\axios\lib\core\mergeConfig.js134226717023217642 0
 98C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\wasm-multi-value.js134226679988988052 0
@@ -2774,6 +2799,7 @@
 88C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\webgl2.js134226679989674893 0
 86C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\webm.js134226679989783993 0
 92C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\websockets.js134226679989854208 0
+66C:\Users\rw578\TextAliveStarterProject\node_modules\buffer\LICENSE134226984461914335 0
 88C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\webusb.js134226679989914305 0
 92C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\webworkers.js134226679989989511 0
 87C:\Users\rw578\TextAliveStarterProject\node_modules\caniuse-lite\data\features\webxr.js134226679990019530 0
@@ -2807,6 +2833,14 @@
 94C:\Users\rw578\TextAliveStarterProject\node_modules\axios\lib\platform\browser\classes\Blob.js134226717022715435 0
 88C:\Users\rw578\TextAliveStarterProject\node_modules\baseline-browser-mapping\LICENSE.txt134226679954716236 0
 92C:\Users\rw578\TextAliveStarterProject\node_modules\baseline-browser-mapping\dist\index.d.ts134226679954478754 0
+70C:\Users\rw578\TextAliveStarterProject\node_modules\base64-js\index.js134226984462560938 0
+69C:\Users\rw578\TextAliveStarterProject\node_modules\base64-js\LICENSE134226984462530949 0
+71C:\Users\rw578\TextAliveStarterProject\node_modules\base64-js\README.md134226984462601824 0
+92C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\esm\_to_consumable_array.js134226679967200644 0
+69C:\Users\rw578\TextAliveStarterProject\node_modules\base-x\LICENSE.md134226679951919371 0
+104C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\runtime-js\lib\helpers\worker\wasm-loader.js134226679958731599 0
+71C:\Users\rw578\TextAliveStarterProject\node_modules\base-x\package.json134226679951436189 0
+68C:\Users\rw578\TextAliveStarterProject\node_modules\base-x\README.md134226679952372746 0
 77C:\Users\rw578\TextAliveStarterProject\node_modules\axios\lib\helpers\bind.js134226717022685403 0
 62C:\Users\rw578\TextAliveStarterProject\node_modules\base-x\src134226679952897744 1
 71C:\Users\rw578\TextAliveStarterProject\node_modules\base-x\src\index.js134226679950856900 0
@@ -2814,9 +2848,6 @@
 66C:\Users\rw578\TextAliveStarterProject\node_modules\axios\index.js134226717023036010 0
 65C:\Users\rw578\TextAliveStarterProject\node_modules\axios\LICENSE134226717021415401 0
 70C:\Users\rw578\TextAliveStarterProject\node_modules\axios\package.json134226717023809655 0
-74C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\compressor-raw134226679952352685 1
-105C:\Users\rw578\TextAliveStarterProject\node_modules\@swc\helpers\_\_class_private_method_set\package.json134226679958225829 0
-67C:\Users\rw578\TextAliveStarterProject\node_modules\axios\README.md134226717024647967 0
 93C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\utils\src\generateBuildMetrics.js134226679956782040 0
 70C:\Users\rw578\TextAliveStarterProject\node_modules\axios\lib\adapters134226717024517591 1
 106C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\runtime-browser-hmr\lib\loaders\hmr-runtime.js134226679951677986 0
@@ -3408,7 +3439,6 @@
 80C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\transformer-posthtml134226679953421281 1
 90C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\transformer-react-refresh-wrap134226679954103690 1
 65C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\types134226679952124943 1
-74C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\types-internal134226679955914187 1
 65C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\utils134226679960477377 1
 67C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\watcher134226679958751604 1
 67C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\workers134226679959423549 1
@@ -3537,7 +3567,6 @@
 81C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\utils\src\throttle.js134226679960185264 0
 82C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\utils\lib\index.js.map134226679960838169 0
 78C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\types-internal\lib134226679957123361 1
-87C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\types-internal\package.json134226679955682557 0
 82C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\types-internal\scripts134226679955813664 1
 78C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\runtime-js\LICENSE134226679951537531 0
 78C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\types-internal\src134226679955536595 1
@@ -3548,6 +3577,7 @@
 104C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\types-internal\src\FileCreateInvalidation.js134226679953189335 0
 78C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\core\test\requests134226679959894397 1
 90C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\types-internal\src\FilePath.js134226679953609653 0
+69C:\Users\rw578\TextAliveStarterProject\dist\webfontloader.475e8ddf.js134226999256943456 0
 93C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\core\test\fixtures\custom-targets134226679964855322 1
 92C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\types-internal\src\FileSystem.js134226679953973108 0
 96C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\types-internal\src\PackageManager.js134226679955054434 0
@@ -3703,7 +3733,6 @@
 103C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\runtime-js\src\helpers\browser\js-loader.js134226679957375686 0
 82C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\runtime-js\lib\helpers134226679957183966 1
 87C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\runtime-js\lib\JSRuntime.js134226679957675362 0
-87C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\runtime-js\lib\helpers\node134226679958586490 1
 89C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\runtime-js\lib\helpers\worker134226679958721550 1
 102C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\runtime-js\lib\helpers\worker\js-loader.js134226679957234000 0
 101C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\runtime-js\lib\helpers\node\css-loader.js134226679954254433 0
@@ -3738,7 +3767,7 @@
 91C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\reporter-cli\lib\CLIReporter.js134226679953740102 0
 95C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map134226679956484888 0
 72C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\profiler\lib134226679956308341 1
-83C:\Users\rw578\TextAliveStarterProject\dist\TextAliveStarterProject.3464ddca.js.map134226720002986395 0
+83C:\Users\rw578\TextAliveStarterProject\dist\TextAliveStarterProject.3464ddca.js.map134226984053625483 0
 72C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\profiler\src134226679955371179 1
 88C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\profiler\test\Tracer.test.js134226679955014403 0
 82C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\node-resolver-core\lib134226679953609653 1
@@ -3837,9 +3866,6 @@
 78C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\graph\src\Graph.js134226679955773621 0
 78C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\graph\src\index.js134226679956278328 0
 78C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\graph\src\types.js134226679956751801 0
-94C:\Users\rw578\TextAliveStarterProject\node_modules\.bin\node-gyp-build-optional-packages-test134226679991052166 0
-98C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\core\src\requests\ValidationRequest.js134226679964053811 0
-86C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\graph\lib\AdjacencyList.js134226679952473469 0
 73C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\fs\index.d.ts134226679956268251 0
 66C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\fs\lib134226679956383832 1
 67C:\Users\rw578\TextAliveStarterProject\node_modules\@parcel\fs\test134226679955254966 1
@@ -4033,10 +4059,12 @@
 62C:\Users\rw578\TextAliveStarterProject\node_modules\.bin\json5134226679991047072 0
 66C:\Users\rw578\TextAliveStarterProject\node_modules\.bin\json5.ps1134226679991034317 0
 102C:\Users\rw578\TextAliveStarterProject\node_modules\.bin\node-gyp-build-optional-packages-optional.ps1134226679991065450 0
-98C:\Users\rw578\TextAliveStarterProject\node_modules\.bin\node-gyp-build-optional-packages-test.cmd134226679991052166 0
 93C:\Users\rw578\TextAliveStarterProject\node_modules\.bin\node-gyp-build-optional-packages.ps1134226679991052166 0
 67C:\Users\rw578\TextAliveStarterProject\node_modules\.bin\parcel.ps1134226679991075584 0
 67C:\Users\rw578\TextAliveStarterProject\node_modules\.bin\semver.ps1134226679991124019 0
 79C:\Users\rw578\TextAliveStarterProject\node_modules\.bin\update-browserslist-db134226679991154032 0
 83C:\Users\rw578\TextAliveStarterProject\node_modules\.bin\update-browserslist-db.cmd134226679991134003 0
-79C:\Users\rw578\TextAliveStarterProject\dist\TextAliveStarterProject.3464ddca.js134226720002925815 0
+83C:\Users\rw578\TextAliveStarterProject\dist\TextAliveStarterProject.0f77c784.js.map134226999257686602 0
+80C:\Users\rw578\TextAliveStarterProject\dist\TextAliveStarterProject.2cdaf7bc.css134226999311126878 0
+79C:\Users\rw578\TextAliveStarterProject\dist\TextAliveStarterProject.3464ddca.js134226984053575412 0
+73C:\Users\rw578\TextAliveStarterProject\dist\webfontloader.475e8ddf.js.map134226999256993799 0
