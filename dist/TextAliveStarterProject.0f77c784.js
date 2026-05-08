@@ -719,7 +719,8 @@ var _textaliveAppApi = require("textalive-app-api");
 const player = new (0, _textaliveAppApi.Player)({
     app: {
         token: "axMa03SlS6U3CHwQ",
-        mediaElement: document.querySelector("#media")
+        mediaElement: document.querySelector("#media"),
+        mediaBannerPosition: "bottom-left"
     }
 });
 //Initialize UI Elements
@@ -745,23 +746,17 @@ player.addListener({
         textContainer.textContent = "Ready! Press Play.";
         playBtn.disabled = false;
         stopBtn.disabled = false;
-        let w = player.video.firstWord;
-        while(w){
-            w.animate = animateWord;
-            w = w.next;
-        }
     },
     onBeatUpdate: (beat)=>{
         // This example slightly rotates the gradient on every beat
         document.body.style.filter = `hue-rotate(${beat.index * 10}deg)`;
     },
     onTimeUpdate: (position)=>{
-        // Get the current lyric based on the song's playback position
-        let currentVideo = player.video;
-        if (currentVideo) {
-            let currentWord = currentVideo.findWord(position);
+        if (player.video && player.video.findWord) {
+            const currentWord = player.video.findWord(position);
             if (currentWord) textContainer.textContent = currentWord.text;
-            else textContainer.textContent = " "; // Clear screen if no word is sung
+            else // Check if we are in the middle of a song or just the intro
+            textContainer.textContent = player.isPlaying ? "\u266A \u266A \u266A" : "Waiting...";
         }
     }
 });
@@ -770,7 +765,11 @@ playBtn.addEventListener("click", ()=>{
         player.requestPause();
         playBtn.textContent = "Play";
     } else {
-        player.requestPlay();
+        player.requestPlay().catch((err)=>{
+            console.error("Playback failed to start:", err);
+            // Sometimes clicking a second time fixes it after the first interaction
+            alert("Please click the page once more to enable audio!");
+        });
         playBtn.textContent = "Pause";
     }
 });
