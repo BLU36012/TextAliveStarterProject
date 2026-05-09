@@ -19,9 +19,6 @@ player.addListener({
 // Fired when the app is ready. You can load a song here.
   onAppReady: (app) => {
     console.log("Status: App Ready");
-     if (!app.managed){
-      
-    }
     if (!app.songUrl) {
         console.log("Video Ready to Play");
         player.createFromSongUrl("https://piapro.jp/t/RoPB/20220122172830");
@@ -34,10 +31,12 @@ player.addListener({
     playBtn.disabled = false;
     stopBtn.disabled = false;
   },
+  // Fired when the video/audio starts playing
   onBeatUpdate:(beat) => {
     // This example slightly rotates the gradient on every beat
     document.body.style.filter = `hue-rotate(${beat.index * 10}deg)`;
   },
+  // Fired when the current position of the video/audio changes
   onTimeUpdate: (position) => {
     if (player.video) {
         const currentWord = player.video.findWord(position);
