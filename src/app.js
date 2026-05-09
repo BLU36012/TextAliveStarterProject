@@ -21,12 +21,19 @@ player.addListener({
     console.log("Status: App Ready");
     if (!app.songUrl) {
         console.log("Video Ready to Play");
-        player.createFromSongUrl("https://piapro.jp/t/RoPB/20220122172830");
+        player.createFromSongUrl("https://www.youtube.com/watch?v=ygY2qObZv24");
     }
   },
   // Fired when the video/audio is ready to be played
   onVideoReady: (video) => {
     console.log("Status: Video Ready");
+    if (player.app && player.app.refresh) {
+      player.app.refresh();
+    }
+    if (player.app && typeof player.app.requestNextScene == "function") {
+      player.app.refresh(); 
+    }
+    window.dispatchEvent(new Event('resize'));
     textContainer.textContent = "Ready! Press Play.";
     playBtn.disabled = false;
     stopBtn.disabled = false;

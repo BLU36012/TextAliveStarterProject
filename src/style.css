@@ -24,13 +24,33 @@ body {
   }
 }
 #media {
-  width: 320px;
-  height: 180px;
+  width: 800px;
+  height: 450px; 
   background: #000;
-  border-radius: 8px;
-  margin-bottom: 20px;
+  border-radius: 12px;
+  box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+  margin-bottom: 30px;
+  position: relative; 
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
+/* This targets the <iframe> (YouTube) or <canvas> (Piapro) 
+   and forces it to fill the 800x450 box entirely.
+*/
+#media iframe, 
+#media canvas, 
+#media > * {
+  position: absolute !important;
+  width: 100% !important;
+  height: 100% !important;
+  top: 0 !important;
+  left: 0 !important;
+  border: none !important;
+  display: block !important;
+}
 .lyric-box {
   background: rgba(0, 0, 0, 0.4); /* Semi-transparent black */
   padding: 20px 40px;

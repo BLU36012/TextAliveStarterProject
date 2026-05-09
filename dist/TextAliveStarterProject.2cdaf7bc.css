@@ -27,10 +27,26 @@ body {
 
 #media {
   background: #000;
-  border-radius: 8px;
-  width: 320px;
-  height: 180px;
-  margin-bottom: 20px;
+  border-radius: 12px;
+  justify-content: center;
+  align-items: center;
+  width: 800px;
+  height: 450px;
+  margin-bottom: 30px;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 20px 50px #00000080;
+}
+
+#media iframe, #media canvas, #media > * {
+  border: none !important;
+  width: 100% !important;
+  height: 100% !important;
+  display: block !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
 }
 
 .lyric-box {
