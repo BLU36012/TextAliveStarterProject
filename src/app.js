@@ -8,7 +8,7 @@ const player = new Player({ app: { token: "axMa03SlS6U3CHwQ", parameters: []
 const textContainer = document.querySelector("#text");
 const playBtn = document.querySelector("#play");
 const stopBtn = document.querySelector("#stop");
-//Tutorial function 
+//Tutorial function
 const animateWord = function (now, unit) {
   if (unit.contains(now)) {
     document.querySelector("#text").textContent = unit.text;
@@ -50,7 +50,7 @@ player.addListener({
     }
     }
 });
-
+// Play/Pause button event listener
 playBtn.addEventListener("click", () => {
   if (player.isPlaying) {
     player.requestPause();
@@ -64,7 +64,7 @@ playBtn.addEventListener("click", () => {
     playBtn.textContent = "Pause";
   }
 });
-
+// Stop button event listener
 stopBtn.addEventListener("click", () => {
   player.requestStop();
   playBtn.textContent = "Play";
