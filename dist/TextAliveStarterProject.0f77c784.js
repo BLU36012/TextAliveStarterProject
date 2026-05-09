@@ -719,12 +719,13 @@ var _textaliveAppApi = require("textalive-app-api");
 const player = new (0, _textaliveAppApi.Player)({
     app: {
         token: "axMa03SlS6U3CHwQ",
-        mediaElement: document.querySelector("#media"),
-        mediaBannerPosition: "bottom-left"
-    }
+        parameters: []
+    },
+    mediaElement: document.querySelector("#media"),
+    mediaBannerPosition: "bottom-left"
 });
 //Initialize UI Elements
-const textContainer = document.querySelector("#text-container");
+const textContainer = document.querySelector("#text");
 const playBtn = document.querySelector("#play");
 const stopBtn = document.querySelector("#stop");
 //Tutorial function 
@@ -735,6 +736,7 @@ player.addListener({
     // Fired when the app is ready. You can load a song here.
     onAppReady: (app)=>{
         console.log("Status: App Ready");
+        app.managed;
         if (!app.songUrl) {
             console.log("Video Ready to Play");
             player.createFromSongUrl("https://piapro.jp/t/RoPB/20220122172830");
@@ -752,7 +754,7 @@ player.addListener({
         document.body.style.filter = `hue-rotate(${beat.index * 10}deg)`;
     },
     onTimeUpdate: (position)=>{
-        if (player.video && player.video.findWord) {
+        if (player.video) {
             const currentWord = player.video.findWord(position);
             if (currentWord) textContainer.textContent = currentWord.text;
             else // Check if we are in the middle of a song or just the intro

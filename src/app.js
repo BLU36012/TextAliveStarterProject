@@ -1,11 +1,11 @@
 import { Player } from "textalive-app-api";
 
 //Initialize the player
-const player = new Player({ app: { token: "axMa03SlS6U3CHwQ", mediaElement: document.querySelector("#media"), mediaBannerPosition: "bottom-left"
- } });
+const player = new Player({ app: { token: "axMa03SlS6U3CHwQ", parameters: []
+ }, mediaElement: document.querySelector("#media"), mediaBannerPosition: "bottom-left"});
 
 //Initialize UI Elements
-const textContainer = document.querySelector("#text-container");
+const textContainer = document.querySelector("#text");
 const playBtn = document.querySelector("#play");
 const stopBtn = document.querySelector("#stop");
 //Tutorial function 
@@ -19,6 +19,9 @@ player.addListener({
 // Fired when the app is ready. You can load a song here.
   onAppReady: (app) => {
     console.log("Status: App Ready");
+     if (!app.managed){
+      
+    }
     if (!app.songUrl) {
         console.log("Video Ready to Play");
         player.createFromSongUrl("https://piapro.jp/t/RoPB/20220122172830");
@@ -36,7 +39,7 @@ player.addListener({
     document.body.style.filter = `hue-rotate(${beat.index * 10}deg)`;
   },
   onTimeUpdate: (position) => {
-    if (player.video && player.video.findWord) {
+    if (player.video) {
         const currentWord = player.video.findWord(position);
         
         if (currentWord) {
