@@ -721,6 +721,7 @@ const player = new (0, _textaliveAppApi.Player)({
         token: "axMa03SlS6U3CHwQ",
         parameters: []
     },
+    //TextAlive App API for UI element
     mediaElement: document.querySelector("#media"),
     mediaBannerPosition: "bottom-left"
 });
@@ -738,7 +739,8 @@ player.addListener({
         console.log("Status: App Ready");
         if (!app.songUrl) {
             console.log("Video Ready to Play");
-            player.createFromSongUrl("https://www.youtube.com/watch?v=ygY2qObZv24");
+            player.createFromSongUrl("https://www.youtube.com/watch?v=ygY2qObZv24", {
+            });
         }
     },
     // Fired when the video/audio is ready to be played
@@ -753,16 +755,19 @@ player.addListener({
     },
     // Fired when the video/audio starts playing
     onBeatUpdate: (beat)=>{
-        // This example slightly rotates the gradient on every beat
-        document.body.style.filter = `hue-rotate(${beat.index * 10}deg)`;
+        console.log("Beat Index:", beat.index);
+        // This slightly rotates the gradient on every beat
+        document.body.style.filter = `hue-rotate(${beat.index * 90}deg) brightness(1.2)`;
     },
     // Fired when the current position of the video/audio changes
     onTimeUpdate: (position)=>{
         if (player.video) {
             const currentWord = player.video.findWord(position);
-            if (currentWord) textContainer.textContent = currentWord.text;
-            else // Check if we are in the middle of a song or just the intro
-            textContainer.textContent = player.isPlaying ? "\u266A \u266A \u266A" : "Waiting...";
+            if (currentWord) {
+                const previousWord = currentWord.previous;
+                const previousText = previousWord ? previousWord.text : "";
+                textContainer.textContent = previousText + " " + currentWord.text;
+            }
         }
     }
 });
@@ -772,11 +777,7 @@ playBtn.addEventListener("click", ()=>{
         player.requestPause();
         playBtn.textContent = "Play";
     } else {
-        player.requestPlay().catch((err)=>{
-            console.error("Playback failed to start:", err);
-            // Sometimes clicking a second time fixes it after the first interaction
-            alert("Please click the page once more to enable audio!");
-        });
+        player.requestPlay();
         playBtn.textContent = "Pause";
     }
 });

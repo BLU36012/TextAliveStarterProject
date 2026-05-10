@@ -1,14 +1,15 @@
 body {
-  color: #872bea;
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab) 0 0 / 400% 400%;
+  color: #072758;
+  background: linear-gradient(-45deg, #7048cf, #4cc3e3) 0 0 / 400% 400%;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100vh;
   margin: 0;
   font-family: sans-serif;
-  animation: 15s infinite gradientBG;
+  transition: filter .2s;
   display: flex;
+  animation: 15s infinite fluidGradient !important;
 }
 
 @keyframes fluidGradient {

@@ -1,8 +1,9 @@
 import { Player } from "textalive-app-api";
 
 //Initialize the player
-const player = new Player({ app: { token: "axMa03SlS6U3CHwQ", parameters: []
- }, mediaElement: document.querySelector("#media"), mediaBannerPosition: "bottom-left"});
+const player = new Player({ app: { token: "axMa03SlS6U3CHwQ", parameters: []},
+  //TextAlive App API for UI element
+   mediaElement: document.querySelector("#media"), mediaBannerPosition: "bottom-left"});
 
 //Initialize UI Elements
 const textContainer = document.querySelector("#text");
@@ -21,7 +22,17 @@ player.addListener({
     console.log("Status: App Ready");
     if (!app.songUrl) {
         console.log("Video Ready to Play");
-        player.createFromSongUrl("https://www.youtube.com/watch?v=ygY2qObZv24");
+        player.createFromSongUrl("https://www.youtube.com/watch?v=ygY2qObZv24", {
+          /*
+        video: {
+          beatId: 4694276,
+          chordId: 2830731,
+          repetitiveSegmentId: 2946479,
+          lyricId: 67811,
+          lyricDiffId: 20655
+        }
+          */
+      });
     }
   },
   // Fired when the video/audio is ready to be played
@@ -40,8 +51,9 @@ player.addListener({
   },
   // Fired when the video/audio starts playing
   onBeatUpdate:(beat) => {
-    // This example slightly rotates the gradient on every beat
-    document.body.style.filter = `hue-rotate(${beat.index * 10}deg)`;
+    console.log("Beat Index:", beat.index);
+    // This slightly rotates the gradient on every beat
+    document.body.style.filter = `hue-rotate(${beat.index * 90}deg) brightness(1.2)`;
   },
   // Fired when the current position of the video/audio changes
   onTimeUpdate: (position) => {
@@ -49,10 +61,13 @@ player.addListener({
         const currentWord = player.video.findWord(position);
         
         if (currentWord) {
-            textContainer.textContent = currentWord.text;
+          const previousWord = currentWord.previous;
+          const previousText = previousWord ? previousWord.text : "";
+            textContainer.textContent = previousText + " " + currentWord.text;
         } else {
             // Check if we are in the middle of a song or just the intro
-            textContainer.textContent = player.isPlaying ? "♪ ♪ ♪" : "Waiting...";
+            //textContainer.textContent = player.isPlaying ? "♪ ♪ ♪" : "Waiting...";
+            //textContainer.textContent = " ";
         }
     }
     }
@@ -63,11 +78,7 @@ playBtn.addEventListener("click", () => {
     player.requestPause();
     playBtn.textContent = "Play";
   } else {
-    player.requestPlay().catch((err) => {
-      console.error("Playback failed to start:", err);
-      // Sometimes clicking a second time fixes it after the first interaction
-      alert("Please click the page once more to enable audio!");
-    });
+    player.requestPlay();
     playBtn.textContent = "Pause";
   }
 });
