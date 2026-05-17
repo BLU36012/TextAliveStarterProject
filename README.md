@@ -12,4 +12,4 @@ Features:
 - Video (if linked to a video) that syncs to the part of the song being played
 - Play and pause button to control the music and video playback
 - Uses the TextAlive App API to fetch song information and lyrics
-- Gradient background that transitions smoothly between colors using CSS animations
+- Gradient background that transitions smoothly between colors using CSS animations;
